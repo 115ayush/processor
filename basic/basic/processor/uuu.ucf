@@ -1,0 +1,22 @@
+NET "clk" LOC=P84;
+
+
+NET "x[0]" LOC=p127;
+NET "x[1]" LOC=p131;
+NET "x[2]" LOC=p132;
+NET "x[3]" LOC=p133;
+
+
+NET "y[0]" LOC=p137;
+NET "y[1]" LOC=p138;
+NET "y[2]" LOC=p139;
+NET "y[3]" LOC=p140;
+NET "y[4]" LOC=p141;
+NET "y[5]" LOC=p142;
+NET "y[6]" LOC=p143;
+
+
+NET "A[0]" loc=p33;
+NET "A[1]" loc=p32;
+NET "A[2]" loc=p30;
+NET "A[3]" loc=p29;
